@@ -42,21 +42,6 @@ I am a software developer focused on building scalable, high-performance web app
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elif-Rvyd&show_icons=true&theme=radium" alt="Elify's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elif-Rvy&theme=radium" alt="Elify's GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elif-Rvy&layout=compact&theme=radium" alt="Top Languages" />
-</div>
-
----
-
 ### 🤝 Let's Connect!
 
 <p align="center">
